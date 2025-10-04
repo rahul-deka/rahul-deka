@@ -18,7 +18,9 @@
   <a href="https://rahul-deka.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white" alt="Website"/></a>
   <a href="https://www.instagram.com/rahuldeka0_0/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:rahuldeka0.0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=rahul-deka&style=flat-square&color=blue" alt="Visitor Badge"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=rahul-deka&style=flat-square&color=blue" alt="Visitor Badge"/> -->
+  <a href="https://u8views.com/github/rahul-deka"><img src="https://u8views.com/api/v1/github/profiles/130134763/views/total-count.svg"></a>
+  <!-- <a href="https://u8views.com/github/rahul-deka"><img src="https://u8views.com/api/v1/github/profiles/130134763/views/total-count.svg" alt="Profile Views" style="border-radius: 3px;"></a> -->
 </p>
 
 <p align="center">
